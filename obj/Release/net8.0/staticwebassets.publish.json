@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Zqhga3nXmkB54q8nRHp1hPL70QPWps+AMa55noJtnRE=",
+  "Source": "Lh_Pets",
+  "BasePath": "_content/Lh_Pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lh_Pets\\wwwroot",
+      "Source": "Lh_Pets",
+      "ContentRoot": "C:\\Projetos_Pessoais\\SENAI\\Lh_Pets\\wwwroot\\",
+      "BasePath": "_content/Lh_Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projetos_Pessoais\\SENAI\\Lh_Pets\\wwwroot\\index.html",
+      "SourceId": "Lh_Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos_Pessoais\\SENAI\\Lh_Pets\\wwwroot\\",
+      "BasePath": "_content/Lh_Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
